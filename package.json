@@ -1,0 +1,15 @@
+{
+  "name": "her",
+  "version": "1.0.0",
+  "description": "",
+  "main": "herokuOrBust.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Akhil Ravipati",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.4"
+  },
+  "engines": {"node": "10.x"}
+}
